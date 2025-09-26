@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer specializing in buildin
 - **[Image Picker](https://github.com/raolokesh/ImagePicker)**  
   A flexible and powerful image picker library for Android, designed to streamline media selection in your apps.
 
-- **[QR Code Scanner](#)**  
+- **[QR Code Scanner](https://github.com/raolokesh/qrcodescanner)**  
   Fast, reliable QR code scanning module—easy to integrate and highly customizable for Android applications.
 
 ---
@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer specializing in buildin
 
 ## 📬 Connect with me
 
-- [LinkedIn](#) <!-- Add your URL -->
+- [LinkedIn](https://www.linkedin.com/in/lokeshrao9461/) <!-- Add your URL -->
 - [Twitter](#)  <!-- Add your URL -->
 - [Website](#)  <!-- Add your URL -->
 
